@@ -11,7 +11,7 @@ To install the layouts, see the [relevant section at Kalamine's docs](<https://g
 
 If you do not wish to use this, then there is also the [Runeboard](<https://keyman.com/keyboards/runeboard>) by Rune Revival for [Keyman](<https://keyman.com/>).
 
-## The Runes
+## The Runes | ᚦᛟ᛫ᚱᚢᚾᛋ
 
 These are the names I personally call the runes (and just a list of sounds) to make it easier to remember in a Modern English context, but also preserving some of the historical meanings.
 
