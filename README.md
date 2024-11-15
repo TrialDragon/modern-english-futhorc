@@ -2,7 +2,7 @@
 
 This is my personal keyboard layout I use for writing [Modern English Fuþorc Runes based on Rune Revival](<https://www.youtube.com/@LearnRunes>). It is created with [Kalamine](<https://github.com/OneDeadKey/kalamine>).
 
-## Installation | ᛁᚾᛥᚩᛚᛖᛡᛋᚳᛟᚾ
+## Installation | ᛁᚾᛥᛟᛚᛚᛖᛡᛋᚳᛟᚾ
 
 To install the layouts, see the [relevant section at Kalamine's docs](<https://github.com/OneDeadKey/kalamine?tab=readme-ov-file#using-distributable-layouts>).
 
