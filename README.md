@@ -27,9 +27,9 @@ Runic Example, Rune, Alphabetic Example
 
 ᚱᚫᛡᛞ - ᚱ - Ride
 
-ᛣᚫᚾᛞᛟᛚ - ᛣ - Candle
-
 ᚳᚢᚢᛋ - ᚳ - Choose
+
+ᛣᚫᚾᛞᛟᛚ - ᛣ - Candle
 
 ᚸᚪᚱᛞ - ᚸ - Guard
 
