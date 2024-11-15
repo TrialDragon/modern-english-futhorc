@@ -36,7 +36,7 @@ Runic Example, Rune, Alphabetic Example
 
 ᚸᚪᚱᛞ - ᚸ - Guard
 
-ᚷᚩᛚᛏ - ᚷ - Jolt
+ᚷᚩᚢᛚᛏ - ᚷ - Jolt
 
 ᚹᛁᚾ - ᚹ - Win
 
