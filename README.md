@@ -63,7 +63,7 @@ Runic Example, Rune, Alphabetic Example
 
 ᛚᚫᚫ - ᛚ - Law
 
-ᛁᛝ - ᛝ - Ing (The Old English os(meaning god) Ing)
+ᛁᛝᚸ - ᛝ - Ing (The Old English os(meaning god) Ing)
 
 ᛟᚦᛟᚱ - ᛟ - Other
 
