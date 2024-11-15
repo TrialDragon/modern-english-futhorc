@@ -19,7 +19,7 @@ Runic Example, Rune, Alphabetic Example
 
 ᚠᛇ - ᚠ - Fee
 
-ᚢᛉ - ᚢ - Ooze
+ᚢᚢᛉ - ᚢ - Ooze
 
 ᚦᚩᚱᚾ - ᚦ - Thorn
 
