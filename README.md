@@ -83,7 +83,7 @@ Runic Example, Rune, Alphabetic Example
 
 ᚠ‍ᚠᛠᛗᛖᚾᛏ - ᛠ - Vehement
 
-ᚩᚢᛋ - ᚩᚢ - Os (A god / An Old English god)
+ᚩᚢᛋ - ᚩᚢ - Os (A god / An Old English god) or ᚩᚢᛚᛞ - ᚩᚢ - Old (For clarity of what the sound is)
 
 ᚳᚩᛡᛋ - ᚩᛡ - Choice
 
