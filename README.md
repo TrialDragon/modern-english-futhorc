@@ -2,6 +2,9 @@
 
 This is my personal keyboard layout I use for writing [Modern English Fuþorc Runes based on Rune Revival](<https://www.youtube.com/@LearnRunes>). It is created with [Kalamine](<https://github.com/OneDeadKey/kalamine>). You can see how the layout looks in the `layout.toml` file; the way Kalamine is laid out means it is visually readable / translatable to what keys are what characters.
 
+> [!IMPORTANT]
+> The Comma <kbd>,</kbd> key has been replaced with a Zero-width-joiner ZWJ; this can be placed inbetween runes to create bindrunes (in supported fonts). So, to create the ᚠᚠ bindrune, you would type <kbd>f</kbd><kbd>,</kbd><kbd>f</kbd> whilst using the runic keyboard layout.
+
 ## Installation | ᛁᚾᛥᛟᛚᛚᛖᛡᛋᚳᛟᚾ
 
 To install the layouts, see the [relevant section at Kalamine's docs](<https://github.com/OneDeadKey/kalamine?tab=readme-ov-file#using-distributable-layouts>).
