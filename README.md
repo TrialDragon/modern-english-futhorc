@@ -1,11 +1,11 @@
 # Modern English Fuþorc Runes Keyboard Layouts | ᛗᚩᛞᛟᚱᚾ᛫ᛁᚾᚸᛚᛁᛋᚳ᛫ᚠᚢᚦᚩᚱᚳ᛫ᚱᚢᚾᛋ᛫ᛣᛇᛒᚩᚱᛞ᛫ᛚᛖᛡᚣᛏᛋ
 
-This is my personal keyboard layout I use for writing [Modern English Fuþorc Runes based on Rune Revival](<https://www.youtube.com/@LearnRunes>). It is created with [Kalamine](<https://github.com/OneDeadKey/kalamine>).
+This is my personal keyboard layout I use for writing [Modern English Fuþorc Runes based on Rune Revival](<https://www.youtube.com/@LearnRunes>). It is created with [Kalamine](<https://github.com/OneDeadKey/kalamine>). You can see how the layout looks in the `layout.toml` file; the way Kalamine is laid out means it is visually readable / translatable to what keys are what characters.
 
 ## Installation | ᛁᚾᛥᛟᛚᛚᛖᛡᛋᚳᛟᚾ
 
 To install the layouts, see the [relevant section at Kalamine's docs](<https://github.com/OneDeadKey/kalamine?tab=readme-ov-file#using-distributable-layouts>).
-
+Download the relevant files from the [releases page](<https://github.com/TrialDragon/modern-english-futhorc/releases>). (AHK for Windows; couldn't get KLC to build, Keylayout for MacOS, XKB Keymap and XKB Symbols for Linux-based distros, and JSon for Web).
 
 ## Alternative | ᚫᛚᛏᛟᚱᚾᛟᛏᛁᚠ
 
